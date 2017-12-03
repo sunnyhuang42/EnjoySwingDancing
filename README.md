@@ -1,2 +1,7 @@
 # EnjoySwingDancing
-help you enjoy swing dancing
+
+COMING SOON...
+
+If you want to see this project earlier, you can tell me by starring this repo  ：）
+
+
