@@ -8,7 +8,7 @@
 
 Swing 是什么？为什么要 Swing ？[千位舞者有千种答案](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=200288393&idx=1&sn=308e040defb5df5bcbb1d724abfe9f80&mpshare=1&scene=1&srcid=0113IENR4STXA2RYDgxWtG1V#rd)，或欢乐，或习惯，或心动，或心安，或文化，或生活，或消遣，或寄托。但那是他们，不是你：看再多资源也只能窥豹一斑，她对你来说究竟意味着什么，你得亲自体验 —— 
 
-**去附近最好的 swing 舞会吧！张开双臂，迈开双腿，和着 Jazz ，舞上一晚。**
+**去附近最大的 swing 舞会吧！张开双臂，迈开双腿，和着 Jazz ，舞上一晚。**
 
 愿知识工作者如你，欣闻归属。
 
@@ -36,7 +36,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 - What does swing mean to you? (活动 Issue TBD)
 - Issue 可供性强大，欢迎自主探索各类功用，哈哈哈
 
-Don't mumble, don't murmur, let the dancing do the talking! 💃🏻🕺🏻 
+Last but not least, don't mumble, don't murmur, let the dancing do the talking! 💃🏻🕺🏻 
 
 ## How to contribute？
 
