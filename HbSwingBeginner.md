@@ -39,7 +39,7 @@
 
 
 
-**学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。**每项都需要花时间上手。如果你之前没跳过舞，建议先可着 1-2 项练习，而非一下把三项都拿下。
+**学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没跳过舞，建议先可着 1-2 项练习，而非一下把三项都拿下。
 
 如此，北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我会**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都是从基本步生发出来的，不会占用你太多认知资源。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
 
@@ -94,6 +94,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 2. 最好**蹲下来录**，这样更方便看清老师脚步的细微变化，比如是全脚掌着地还是前脚掌？重心在左腿还是右腿还是中间，在脚尖还是脚跟，什么时候切换？
 3. 建议**竖持手机**而非横持来录，以便练习时手持手机跟学。
 4. 如果老师正好面对镜子就更好啦，正背面都录上了，比如这样：
+
 	![swingvediosample.jpeg](http://ishanshan.qiniudn.com/share/swingvediosample.jpeg?imageView2/2/w/300)
 
 </details>
