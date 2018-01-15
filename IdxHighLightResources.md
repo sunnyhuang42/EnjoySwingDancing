@@ -5,8 +5,8 @@
 
 - [疯狂的摇摆舞Jam！2012 BNJ • saturday 1930s • lindy hop — 优酷网](http://v.youku.com/v_show/id_XMTgyOTc5ODg5Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2&f=49143054) `7mins`
 
-	Don't mumble, don't murmur, let the dancing do the talking! 💃🏻🕺🏻 
-	目前最喜欢的一支 Swing 视频，几乎体现所有 swing 吸引我的元素：即兴欢快的舞步，热情帅气的爵士乐队，围作一圈热烈又默契的舞者。
+	 
+	目前最喜欢的一支 Swing 视频，完美诠释 Don't mumble, don't murmur, let the dancing do the talking! 💃🏻🕺🏻 还几乎体现所有 swing 吸引我的元素：即兴欢快的舞步，热情帅气的爵士乐队，围作一圈热烈又默契的舞者。
 
 - [《时代》 20161004 极致玩家·摇摆北京 第一集](http://tv.cctv.com/2016/10/04/VIDERuUG4ODS2oFVCLTvlYxC161004.shtml) `25mins`、[第二集](http://tv.cctv.com/2016/10/04/VIDEJn9vHAJrxSLHXfH2fpGJ161004.shtml) `25mins`
 
