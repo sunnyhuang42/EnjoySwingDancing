@@ -6,7 +6,7 @@
 
 2017 年夏天，我遭遇了工作以来最深的低谷，幸得 [Swing](https://en.wikipedia.org/wiki/Swing_(dance))，最终平稳走出职业倦怠，也扛过了公司最动荡的时期。而 swing ，自此融入日常。
 
-Swing 是什么？为什么要 Swing ？[千位舞者有千种答案](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=200288393&idx=1&sn=308e040defb5df5bcbb1d724abfe9f80&mpshare=1&scene=1&srcid=0113IENR4STXA2RYDgxWtG1V#rd)，或欢乐，或习惯，或心动，或心安，或文化，或生活，或消遣，或寄托。但那是他们，不是你：看再多资源也只能窥豹一斑，她对你来说究竟意味着什么，你得亲自体验 —— 
+Swing 是什么？为什么要 Swing ？千位舞者有千种答案，或欢乐，或习惯，或心动，或心安，或文化，或生活，或消遣，或寄托。但那是他们，不是你：看再多资源也只能窥豹一斑，她对你来说究竟意味着什么，你得亲自体验 —— 
 
 **去附近最大的 swing 舞会吧！张开双臂，迈开双腿，和着 Jazz ，舞上一晚。**
 
@@ -24,19 +24,20 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 ## How to use it?
 
-探索 Swing 丛林，你可以带着这些锦囊：
+如果你还没见过 swing ，可以先看[这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
-- Swing 新人如何快速上手？且看 [HbSwingBeginner.md](HbSwingBeginner.md)
-- 完成 Swing 动作有什么要点或技巧？移步 HbTechniquesAndSteps.md (TBD)
-- 参加舞会如何更开心？快戳 HbParty.md (TBD)
-- Swing 丛林有何地标？猛击 IdxHighLightResources.md (TBD)
+如果你想亲身体验 Swing ，可以在[这里](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份[舞会锦囊](HbParty.md)（TBD）令你欢乐摇摆。
 
-还可以在这里和同行者神交：
+如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) (TBD) ，你有心得也欢迎增补在此与其他舞者分享~
+
+
+
+你还可以在这里和同行者神交：
 
 - What does swing mean to you? (活动 Issue TBD)
 - Issue 可供性强大，欢迎自主探索各类功用~
 
-Last but not least, don't mumble, don't murmur, let the dancing do the talking! 💃🏻🕺🏻 
+
 
 ## How to contribute？
 
@@ -48,6 +49,7 @@ Last but not least, don't mumble, don't murmur, let the dancing do the talking! 
 
 ## CHANGELOG 
 
+- 180115 闪闪更新使用建议
 - 180114 闪闪创建
 
 
