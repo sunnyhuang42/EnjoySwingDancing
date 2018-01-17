@@ -14,7 +14,7 @@ Swing 是什么？为什么要 Swing ？千位舞者有千种答案，或欢乐�
 
 ![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif)
 
-<center><px8>Google Doodle celebrates swing dancer Frankie Manning on what would have been his 102nd birthday on May 26, 2016.</px8></center>   
+<center>Google Doodle celebrates swing dancer Frankie Manning on what would have been his 102nd birthday on May 26, 2016.</center>   
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
