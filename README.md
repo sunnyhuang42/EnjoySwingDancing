@@ -39,6 +39,8 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 ### 为什么在 GitHub 这个如此 geek 的平台上分享？
 
+嗯哼，好问题。
+
 自主心智（[Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面，这是我最熟悉的分发平台，自然在这儿。
 
 算法心智（[Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面，这儿的开源社区氛围、平台机制，天然适合优雅共建。
@@ -66,7 +68,9 @@ BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给
 
 
 
-如果你喜欢我写的内容，点击右上角星星 `star` 一下，我会很开心~ 这个仓库会持续更新，如果你想及时了解，可以点击右上角眼睛 `watching` 。
+如果你喜欢我写的内容，点击右上角星星 `star` 标记一下，我会很开心~ 这个仓库会持续更新，如果你想及时了解，可以点击右上角眼睛 `watching` 。
+
+--
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
