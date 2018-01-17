@@ -25,7 +25,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 ## Usage
 
-如果你还没见过 swing ，可以先看[这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
+如果你还不熟悉 swing ，可以先看[这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
 如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份[舞会锦囊](HbParty.md)（TBD）令你欢乐摇摆。
 
@@ -49,7 +49,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞哈哈 ：P
 
-### 你有更高的水平或地位后再分享，听的人更多吧？
+### 你有更高水平或地位后再分享，听的人更多吧？
 
 是的谢谢提醒，不过没必要等那时候才分享。
 
