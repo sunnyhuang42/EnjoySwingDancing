@@ -162,6 +162,8 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 日常建议你多听音乐，培养对 melody & rhythm 的感觉。各舞蹈对音乐的响应相通，如果你身体能情不自禁跟着音乐自如摇摆，之后学啥舞蹈在 Musicality 上问题都不大。
 
+一开始找不到节奏也不急焦虑，慢慢来，多听多练。我乐感很差一开始也难找节奏，得知教我的老师也是跳了很久后的某个时候忽然才通，我便安心练习。果然跳了三四个月后便有了感觉。
+
 常用 swing 音乐见 [猫角工作室 - 网易云音乐](https://music.163.com/#/user/home?id=135431100) 分享的歌单。 Blues 推荐 [Rachel-Lau 的歌单《Blues Dance》](http://music.163.com/playlist/615809263/114409566?userid=253155664)。
 
 #### Dance movement, moves and patterns
