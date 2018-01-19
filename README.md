@@ -4,7 +4,7 @@
 
 ## Motivation
 
-2017 年夏天，我遭遇了工作以来最深的低谷，幸得 [Swing](https://en.wikipedia.org/wiki/Swing_(dance))，最终平稳走出职业倦怠，也扛过了公司最动荡的时期。而 swing ，自此融入日常。
+2017 年夏天，我遭遇了工作以来最深的低谷，幸遇 [swing](https://en.wikipedia.org/wiki/Swing_(dance))，黯黑世界燃起星光。在 swing 的陪伴下，我最终平稳走出职业倦怠，也扛过了公司最动荡的时期。而 swing ，也自此融入日常。
 
 Swing 是什么？为什么要 Swing ？千位舞者有千种答案，或欢乐，或习惯，或心动，或心安，或文化，或生活，或消遣，或寄托。但那是他们，不是你：看再多资源也只能窥豹一斑，她对你来说究竟意味着什么，你得亲自体验 —— 
 
@@ -14,7 +14,7 @@ Swing 是什么？为什么要 Swing ？千位舞者有千种答案，或欢乐�
 
 ![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif)
 
-> Google Doodle celebrates swing dancer Frankie Manning on what would have been his 102nd birthday on May 26, 2016.
+> Google Doodle celebrates swing dancer [Frankie Manning](http://www.frankiemanning.com/) on what would have been his 102nd birthday on [May 26, 2016](https://www.google.com/doodles/frankie-mannings-102nd-birthday?hl=en).
 
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
@@ -33,7 +33,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 What does swing mean to you? (活动 Issue TBD) 
 
-[GitHub Issues](https://github.com/ishanshan//issues) 可供性强大，欢迎自主探索使用姿势，比如分享资源、征集同伴什么的，嗯 ;-)
+[GitHub Issues](https://github.com/ishanshan//issues) 可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
 ## FAQ
 
@@ -47,7 +47,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 反省心智（[Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面……老娘再也不想每回报名都费劲逮 leader ，也不想看到那么多喜欢 swing 的姑娘因没 leader 无法报课啦 >.< **批量解决问题**，当然找全球最大同性社交网络，嗯你懂的。为 swing 世界 fo le 平衡贡献绵薄之力，这是我应该做的，不客气~
 
-BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞哈哈 ：P
+BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞 ：P
 
 ### 你有更高水平或地位后再分享，听的人更多吧？
 
@@ -59,16 +59,18 @@ BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给
 
 > 我不需要到达所谓的「地位」才说话。我说的话，价值就在这些话自己身上，它们不需要依附于任何人的地位或者名气来起作用。……因为我不但告诉你「是什么」，而且我告诉你「为什么」。所以一个人要相信我说的话，他不需要知道我是谁，我也不需要什么地位。这句话有它自己的力量，这就是理性的力量。
 > 
-> —— [理性的力量](http://www.codedata.cn/hacknews/150958970916724228)（他 blog 删了，这是备份）
+> —— [理性的力量](http://web.archive.org/web/20171216175507/http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning)（他 blog 删了，这是备份）
 
 
 ### 如何共建？
 
-一家之言必有疏漏。同为 swing dancer 的你，会给六个月前的自己哪些建议？欢迎你直接增补修订对应文档，或讨论交流。你可以直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流，一起让更多人体验 swing 的欢乐，嘿嘿：P
+欢迎发挥你的长处，让更多人感受 swing 魅力 ;-)
 
+比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订对应文档，或讨论交流。你可以直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流，一起让更多人体验 swing 的欢乐 😋
 
+又如，你擅长图像表达，欢迎把其中内容呈现更直观。或者你在张罗社区活动，欢迎引入舞会环节，给你的社区伙伴和这个多彩的生活方式牵个线 😝
 
-如果你喜欢我写的内容，点击右上角星星 `star` 标记一下，我会很开心~ 这个仓库会持续更新，如果你想及时了解，可以点击右上角眼睛 `watching` 。
+即使你现在还想不到能做啥，也可以马上表达心意 —— 如果你喜欢我写的内容，点击右上角星星 `star` 标记一下，我会很开心~ 这个仓库会持续更新，如果你想及时了解，可以点击右上角眼睛 `watching` 。
 
 --
 
@@ -76,6 +78,7 @@ BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给
 
 ## CHANGELOG 
 
+- 180119 闪闪更新共建建议、增补一些链接
 - 180118 闪闪增加 FAQ & CC BY-NC-SA 4.0 license
 - 180115 闪闪更新使用建议
 - 180114 闪闪创建
