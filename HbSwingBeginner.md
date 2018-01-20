@@ -8,12 +8,12 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [上课前](#%E4%B8%8A%E8%AF%BE%E5%89%8D)
+- [开跳前](#%E5%BC%80%E8%B7%B3%E5%89%8D)
   - [什么时候踏入 Swing 丛林更合适？](#%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%B8%8F%E5%85%A5-swing-%E4%B8%9B%E6%9E%97%E6%9B%B4%E5%90%88%E9%80%82)
   - [Lindy Hop / Charleston / Balboa / Blues ，先学哪个？](#lindy-hop--charleston--balboa--blues-%E5%85%88%E5%AD%A6%E5%93%AA%E4%B8%AA)
   - [当 leader 还是 follower ？](#%E5%BD%93-leader-%E8%BF%98%E6%98%AF-follower-)
   - [Follower 如何找到 leader 一起报名？](#follower-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0-leader-%E4%B8%80%E8%B5%B7%E6%8A%A5%E5%90%8D)
-- [上课啦](#%E4%B8%8A%E8%AF%BE%E5%95%A6)
+- [跳舞啦](#%E8%B7%B3%E8%88%9E%E5%95%A6)
   - [跳舞穿什么？](#%E8%B7%B3%E8%88%9E%E7%A9%BF%E4%BB%80%E4%B9%88)
   - [上课礼仪？](#%E4%B8%8A%E8%AF%BE%E7%A4%BC%E4%BB%AA)
   - [如何跳得更开心？ ⭐️](#%E5%A6%82%E4%BD%95%E8%B7%B3%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83-%E2%AD%90%EF%B8%8F)
@@ -29,12 +29,12 @@
 
 注意：
 
-1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。这之后再看这份指南。
-2. 这份指南内容较多，不建议一次看完，这易认知过载。建议你通览上述目录后，只看当前阶段要用或自己感兴趣的部分。
+1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。这之后再看这份指南，要不看了也没感觉。
+2. 这份指南内容较多，不建议一次看完，这易认知过载。建议你通览上述目录心中有数，要用时再翻开对应阶段内容。
 
 
 
-# 上课前
+# 开跳前
 
 ## 什么时候踏入 Swing 丛林更合适？
 
@@ -107,7 +107,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 
 
-# 上课啦
+# 跳舞啦
 
 ## 跳舞穿什么？
 
