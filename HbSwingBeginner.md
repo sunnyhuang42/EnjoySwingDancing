@@ -14,6 +14,7 @@
   - [当 leader 还是 follower ？](#%E5%BD%93-leader-%E8%BF%98%E6%98%AF-follower-)
   - [Follower 如何找到 leader 一起报名？](#follower-%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0-leader-%E4%B8%80%E8%B5%B7%E6%8A%A5%E5%90%8D)
 - [上课啦](#%E4%B8%8A%E8%AF%BE%E5%95%A6)
+  - [跳舞穿什么？](#%E8%B7%B3%E8%88%9E%E7%A9%BF%E4%BB%80%E4%B9%88)
   - [上课礼仪？](#%E4%B8%8A%E8%AF%BE%E7%A4%BC%E4%BB%AA)
   - [如何跳得更开心？ ⭐️](#%E5%A6%82%E4%BD%95%E8%B7%B3%E5%BE%97%E6%9B%B4%E5%BC%80%E5%BF%83-%E2%AD%90%EF%B8%8F)
   - [有哪些舞蹈素养很重要却容易被忽略？ ⭐️](#%E6%9C%89%E5%93%AA%E4%BA%9B%E8%88%9E%E8%B9%88%E7%B4%A0%E5%85%BB%E5%BE%88%E9%87%8D%E8%A6%81%E5%8D%B4%E5%AE%B9%E6%98%93%E8%A2%AB%E5%BF%BD%E7%95%A5-%E2%AD%90%EF%B8%8F)
@@ -33,9 +34,9 @@
 
 
 
-## 上课前
+# 上课前
 
-### 什么时候踏入 Swing 丛林更合适？
+## 什么时候踏入 Swing 丛林更合适？
 
 一年四季都合适。若你想玩 Swing ，现在就来吧！
 
@@ -43,19 +44,21 @@
 
 重蹈我当初覆辙就遗憾了：新人赛看得直跺脚，恨学龄太短，只 swing 3 月多点儿还太嫩，来年又不再是新人。
 
-### Lindy Hop / Charleston / Balboa / Blues ，先学哪个？
+## Lindy Hop / Charleston / Balboa / Blues ，先学哪个？
 
 
 
-**学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没跳过舞，建议先可着 1-2 项练习，而非一下把三项都拿下。
+**学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没舞蹈基础也没音乐基础，建议先可着 1-2 项练习，而非一下把三项都拿下。
 
-如此，北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我会**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都是从基本步生发出来的，不会占用你太多认知资源，降低同时输入的信息的复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
+如果你有舞蹈基础，可以跟着视频学，并多去舞会找人练。
 
-如果从动作多变的 blues 课程开始，嗯……我敬你是条好汉，good luck 😙
+如果没有舞蹈基础，建议直接报课，有搭档有氛围。北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都是从基本步生发出来的，不会占用你太多认知资源，降低同时输入的信息的复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
+
+如果从动作多变的 blues 开始，嗯……我敬你是条好汉，good luck 😙
 
 
 
-### 当 leader 还是 follower ？
+## 当 leader 还是 follower ？
 
 swing 多是双人舞，一人领舞，称为 leader ， 一人跟舞，唤作 follower 。
 
@@ -73,7 +76,7 @@ follower 正好相反：多要找到舞伴才能顺利报名课程，否则就�
 
 当然，即使你搭档报名，也并非只和你舞伴跳 —— 课上大伙儿会轮换舞伴，感受不同 leader/follower 的风格。
 
-### Follower 如何找到 leader 一起报名？
+## Follower 如何找到 leader 一起报名？
 
 Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴搭档报名该怎么办？ ](http://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=2653448915&idx=1&sn=7b1dfbd8a73dae02a2fefd8ec1c215e4&mpshare=1&scene=1&srcid=0113RKPvbLG2ioywA4FEyTud#rd) ，没把所有方法用遍，请别放弃~
 
@@ -83,15 +86,36 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 > As reward, I can do some skill sharing about instructional design, remote collaboration, watercolour painting and so on (* ^__^ *)
 
-## 上课啦
+当然这真的需要运气，一时没找到也不用太难过，可以自己跟着视频先练练~
 
-### 跳舞穿什么？
+<details>
+<summary> 比如 [Beijing Blues Bash 2018 – Swing Beijing](https://swingbeijing.com/bbb2018/) 我就差点因没找到 leader 而错过…… </summary>
+
+当时报名晚了，正打算下一周启动 BBB leader 征集大计，就找到了 leader 。想想也是神奇，一切如此凑巧：
+
+- 正好问了小罗老师，她是 BBB 组织者，自然推荐我马上报年前最后一期 blues 课程别等年后；
+- 正好细毛的顾虑是两门课同时上练习时间不足，而这对我来说不是问题；
+- 正好遇到喜欢听 blues 的 Jack，而他还正好了解我本科时期的 side project [CAPE](http://hicape.com/) 相信我很靠谱，没聊几句便答应和我搭档报 blues 基础班；
+- 正好早了几小时报名，赶上当期基础班最后的名额；
+- 正好 BBB 2018 报名是在基础班第一节课后才放出，给了我时间和同班 leader 建立信任，这才一抓一个准，跳出了 BBB 中级 follower waiting list 排号 7 、大概率没 leader 来解救的噩运。。。
+
+要是其中哪个环节出了差池，艾玛，我可能就无缘 BBB 2018 ，如一朵花错过春天 T_T
+
+
+</details>
+
+
+
+
+# 上课啦
+
+## 跳舞穿什么？
 
 选定角色报名，下一个你要愁的便是上课着装。课程一般运动量不大，你穿着舒适不暴露即可。鞋子嘛，各种舞蹈要求不一（比如 Lindy Hop 最好穿平底，balboa 最好穿有跟的）、场地不一（有些木地板，有些瓷砖），最好直接问你老师啦。
 
 至于舞会，穿你最美也方便跳舞的衣服吧！有些舞会提前告知着装主题，比如风格复古，或者是红色等等，你根据提示装扮就好。
 
-### 上课礼仪？
+## 上课礼仪？
 
 上课也是有礼仪的。尽量别迟到、老师讲解时莫交头接耳，这些都是基本礼仪，相信我不说你也知道。想特别提醒的是：1）**切勿在课程进行途中录像/录音/拍照，一般课程最后老师都有当堂内容示范录制时间，此时再录**；2）也**不要随意传播老师让大家录的 demo 视频**。这俩规则全球通用，请一定注意。更多礼仪见 [开怀撒欢儿童节，跳舞别做“熊孩子”](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=2653448995&idx=1&sn=90007334bee26dbc65a3b8754dc80688&mpshare=1&scene=1&srcid=01137rzZAT383br8lHXcUdrH#rd)。
 
@@ -113,7 +137,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 
 
-### 如何跳得更开心？ ⭐️
+## 如何跳得更开心？ ⭐️
 
 很多舞者都说，Swing 叫人开心。的确，身体和着音乐摇摆，本就叫人愉悦，学习新东西的过程也让人兴奋。相信你无论跳 swing 还是学 swing ，都将开心无比。
 
@@ -137,7 +161,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 这样他也会很开心，也会更乐意和你跳，你就有更多开心时间无限正循环了呐。
 
-### 有哪些舞蹈素养很重要却容易被忽略？ ⭐️
+## 有哪些舞蹈素养很重要却容易被忽略？ ⭐️
 
 好问题，容我想想 ——
 
@@ -148,7 +172,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 
 
-### 如何学得更快？ ⭐️
+## 如何学得更快？ ⭐️
 
 有天赋，学得快。没有？喂醒醒，多练吧。
 
@@ -156,7 +180,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 那课后练什么？开头说的三大模块：
 
-#### Musicality 
+### Musicality 
 
 > Musicality is the skill allowing the dancer to create and execute choreography (either prepared in advance or improvised on the spot on the dance floor) to match - and, more significantly, represent the music - including the melody and the rhythm.
 
@@ -166,7 +190,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 常用 swing 音乐见 [猫角工作室 - 网易云音乐](https://music.163.com/#/user/home?id=135431100) 分享的歌单。 Blues 推荐 [Rachel-Lau 的歌单《Blues Dance》](http://music.163.com/playlist/615809263/114409566?userid=253155664)。
 
-#### Dance movement, moves and patterns
+### Dance movement, moves and patterns
 
 Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动作是在基本步上结合位移、变向、旋转、变奏演化而出。就像你小时候玩的[万花尺](http://nathanfriend.io/inspirograph/)，有了基本模具，便能创作很多图案。
 
@@ -199,9 +223,9 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 	
 	这么练习不但促进舞蹈学习，还能助益你的工作、健康 ——
 	
-	运动能使脑区活化，走路 20 分钟就能。。。，舞蹈效率更高（待补充研究证据）。专注 1-1.5h ，起来动动再继续工作，脑子便好使不少。
+	运动能使脑区活化，[走路 20 分钟就能激活大脑与快乐相关的区域](http://explore.brainpickings.org/post/58068822469/fmri-scan-indicating-increased-brain-activity)，舞蹈这类下肢动作更复杂的活动激活效率更高。专注 1-1.5h ，起来动动再继续工作，脑子便好使不少。且[舞蹈相较其它锻炼，更利于延缓大脑衰老](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00566/full)哦。
 	
-	且[舞蹈相较其它锻炼，更利于延缓大脑衰老](http://news.xinhuanet.com/2017-08/27/c_1121549685.htm)哦。下肢运动还是久坐人士特别好的选择，乃我等知识工作者绝配。
+	下肢运动还是久坐人士特别好的选择，乃我等知识工作者绝配。
 	
 	另外，相较其它小憩选择，舞蹈能令你迅速切换状态 —— 音乐一响，便浸入另一世界。而且更易把控时间 —— 跳 3-4 首就撤，不至于迷得忘了时间。
 		
@@ -222,12 +246,19 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 	<summary>	献丑抛个砖 🙈</summary>
 	
 	
-	这是我在 lindy hop level1 结业编舞串的故事：
+	这是我在 lindy hop level 1 结业编舞里一个小节的动作：
 	
-	1. 俩人初识，前后转圈打招呼（basic 6，send out，change places，circle6，8basic）
-	2. 唔，有好感，手牵手来回散步增进了解（tuck turn，teaport(6)，teaport(10)，teaport(10)）
-	3. 转了一圈尬聊了， follow 想撤，被 lead 拦住两回（8circle，stop pro，pro，8step）
-	4. 好吧那再彼此前后瞧瞧，看有什么好聊的。这时候正好 LH2 follow 出来抢 lead ，LH1 follow 欣然退场（change places*3，8step 抢人） # 当然 LH1 follow 想悻然退场也行，哈哈
+		basic 6，send out，change places，circle6，8basic
+		tuck turn，teaport(6)，teaport(10)，teaport(10)
+		8circle，stop pro，pro，8step
+		hange places*3，8step 抢人
+	
+	这么多，好难记啊……然后我就串了个故事：
+	
+	1. 俩人初识，前后转圈打招呼 `（basic 6，send out，change places，circle6，8basic）`
+	2. 唔，有好感，手牵手来回散步增进了解 `（tuck turn，teaport(6)，teaport(10)，teaport(10)）`
+	3. 转了一圈尬聊了， follow 想撤，被 lead 拦住两回 `（8circle，stop pro，pro，8step）`
+	4. 好吧那再彼此前后瞧瞧，看有什么好聊的。这时候正好 LH2 follow 出来抢 lead ，LH1 follow 欣然退场 `（change places*3，8step 抢人） `# 当然 LH1 follow 想悻然退场也行，哈哈
 		
 	</details>
 	
@@ -239,7 +270,7 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 
 
 
-#### Partnering technique 
+### Partnering technique 
 
 > Partnering technique is the element which controls the communication of the dancers engaged in the dance - the dance partners. 
 
@@ -250,14 +281,15 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 还可以用弹力带练习：绑着上身保持配合时的 frame ，或练流畅性都特管用。
 
 
-## 参考资料
+# 参考资料
 
 - [Lindy hop today - Wikipedia](https://en.wikipedia.org/wiki/Lindy_hop_today)
 - [Lead and follow - Wikipedia](https://en.wikipedia.org/wiki/Lead_and_follow)
 - [SwingBeijing北京摇闻 ](http://weixin.sogou.com/weixin?type=1&query=SwingBeijing&ie=utf8&s_from=input&_sug_=n&_sug_type_=) 内容
 
-## CHANGELOG 
+# CHANGELOG 
 
+- 180120 闪闪增加案例、调整格式
 - 180118 闪闪调整组块
 - 180113 闪闪增补各类细节，优化表达
 - 180106 闪闪创建
