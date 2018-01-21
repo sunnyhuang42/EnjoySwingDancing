@@ -6,8 +6,8 @@
 
 ## 如何使用
 
-1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。此后再看这份指南，要不看了也没感觉。
-2. 这份指南就如产品帮助文档，没必要一次看完，也易认知过载。建议你通览下述目录心中有数，要用时再查阅对应阶段内容即可。
+1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。此后再看这份指南，要不看了也没感觉哦。
+2. 这份指南就如产品帮助文档，没必要一次看完，也易认知过载。建议你先通览下述目录心中有数，即将用到再查阅。
 
 ## 目录
 
