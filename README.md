@@ -45,7 +45,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 算法心智（[Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面，这儿的开源社区氛围、平台机制，天然适合优雅共建。
 
-反省心智（[Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面……老娘再也不想每回报名都费劲逮 leader ，也不想看到那么多喜欢 swing 的姑娘因没 leader 无法报课啦 >.< **批量解决问题**，当然找全球最大同性社交网络，嗯你懂的。为 swing 世界 fo le 平衡贡献绵薄之力，这是我应该做的，不客气~
+反省心智（[Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面……老娘我再也不想每回报名都费劲逮 leader ，也不想看到那么多喜欢 swing 的姑娘因没 leader 无法报课啦 >.< **批量解决问题**，当然找全球最大同性社交网络，嗯你懂的。为 swing 世界 fo le 平衡贡献绵薄之力，这是我应该做的，不客气~
 
 BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞 ：P
 
