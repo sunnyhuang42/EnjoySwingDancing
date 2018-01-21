@@ -2,7 +2,14 @@
 
 # Swing 新人指南
 
-很高兴你打算探索 swing 丛林，希望这份锦囊能助你探索更畅，拿好不谢 \（￣︶￣）/
+很高兴你打算探索 swing 丛林，希望这指南能助你探索更畅，拿好不谢 \（￣︶￣）/
+
+## 如何使用
+
+1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。此后再看这份指南，要不看了也没感觉。
+2. 这份指南就如产品帮助文档，没必要一次看完，也易认知过载。建议你通览下述目录心中有数，要用时再查阅对应阶段内容即可。
+
+## 目录
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -27,10 +34,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-注意：
 
-1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。这之后再看这份指南，要不看了也没感觉。
-2. 这份指南内容较多，不建议一次看完，这易认知过载。建议你通览上述目录心中有数，要用时再翻开对应阶段内容。
 
 
 
