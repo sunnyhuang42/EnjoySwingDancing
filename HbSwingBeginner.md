@@ -90,12 +90,12 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 > As reward, I can do some skill sharing about instructional design, remote collaboration, watercolour painting and so on (* ^__^ *)
 
-当然这真的需要运气，一时没找到也不用太难过，可以自己跟着视频先练练~
+当然这需要运气，一时没找到也不用太难过，可以自己跟着视频先练练~
 
 <details>
-<summary> 比如 [Beijing Blues Bash 2018 – Swing Beijing](https://swingbeijing.com/bbb2018/) 我就差点因没找到 leader 而错过…… </summary>
+<summary> 比如 [Beijing Blues Bash 2018 – Swing Beijing](https://swingbeijing.com/bbb2018/) 我就险些因没找到 leader 而错过…… </summary>
 
-当时报名晚了，正打算下一周启动 BBB leader 征集大计，就找到了 leader 。想想也是神奇，一切如此凑巧：
+当时报名晚了排在 waiting list no.7，等了一周眼看被解救无望，正打算下一周启动 BBB leader 征集大计，就找到了 leader 。想想也是神奇，一切如此凑巧：
 
 - 正好问了小罗老师，她是 BBB 组织者，自然推荐我马上报年前最后一期 blues 课程别等年后；
 - 正好细毛的顾虑是两门课同时上练习时间不足，而这对我来说不是问题；
@@ -103,7 +103,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 - 正好早了几小时报名，赶上当期基础班最后的名额；
 - 正好 BBB 2018 报名是在基础班第一节课后才放出，给了我时间和同班 leader 建立信任，这才一抓一个准，跳出了 BBB 中级 follower waiting list 排号 7 、大概率没 leader 来解救的噩运。。。
 
-要是其中哪个环节出了差池，艾玛，我可能就无缘 BBB 2018 ，如一朵花错过春天 T_T
+要是其中哪个环节出了差池，喜欢 blues 的我可能就无缘 BBB 2018 ，如一朵花错过春天 T_T
 
 
 </details>
