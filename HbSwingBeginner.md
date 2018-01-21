@@ -143,7 +143,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 ## 如何跳得更开心？ ✪
 
-很多舞者都说，Swing 叫人开心。的确，身体和着音乐摇摆，本就叫人愉悦，学习新东西的过程也让人兴奋。相信你无论跳 swing 还是学 swing ，都将开心无比。
+很多舞者都说，Swing 叫人开心。的确，运动叫人愉悦；和着音乐摇摆，更是快乐；学习新东西的过程也让人兴奋不已。总之，相信你无论跳 swing 还是学 swing ，都将开心无比。
 
 这里还有些小技巧，让你更开心哦 —— 
 
@@ -170,7 +170,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 好问题，容我想想 ——
 
 - 跳舞是俩人的交流，请**多看舞伴眼睛**，用眼神、表情和肢体交流，告诉 ta 你很开心/舒服；并用余光留意舞伴身后形势，及时带 ta 避开其他舞者，或提醒 ta 要撞到别人了，注意安全。不要左顾右盼不看舞伴，更不要低头看脚，这不礼貌。
-- followers are in control of your own movement, leaders help management.
+- Followers are in control of your own movement, leaders help management.
 - 无论什么动作，都请做完后再做两拍回到 basic position。练习时亦然。
 -  New dancers frequently focus on moves independent of the music, whereas **more advanced dancers will match their movements to what they hear in the music**. Dancers with a good sense of musicality respond to all elements of the music to which they are dancing. **They may choose to accentuate certain elements to make an artistic statement about the music through movement**. When watching dancers with good musicality, viewers should be able to "see" the song in the dancers' movements, so that even without music, the song would still be recognizable through the dance itself.
 
