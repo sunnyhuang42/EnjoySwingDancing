@@ -47,7 +47,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 反省心智（[Reflective Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）层面……老娘我再也不想每回报名都费劲逮 leader ，也不想看到那么多喜欢 swing 的姑娘因没 leader 无法报课啦 >.< **批量解决问题**，当然找全球最大同性社交网络，嗯你懂的。为 swing 世界 fo le 平衡贡献绵薄之力，这是我应该做的，不客气~
 
-BTW, 如果你周围有男生多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞 ：P
+BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给他们（比如 star 一下这个 repo，让你的 followers 看见）？小女子感激不尽！回头请你跳支舞 ：P
 
 ### 你有更高水平或地位后再分享，听的人更多吧？
 
