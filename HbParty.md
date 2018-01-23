@@ -65,7 +65,9 @@
 
 除了参与者，一场舞会还需：
 
-- 领舞老师（非新人舞会则不必要）：如果是 leader 和 follower 舞步明显不一样的的舞蹈，需要两位领舞老师，否则一位即可。
+- 领舞老师（非新人舞会则不必要）：
+	- 如果是 leader 和 follower 舞步明显不一样的的舞蹈，需要两位领舞老师，否则一位即可。
+	- 领舞老师哪里找？你可以参加一次[附近的 swing 活动](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)时现场勾搭，或者直接线上联系他们~
 - DJ （可由领舞老师兼任）。
 
 ### 舞会环节
@@ -101,7 +103,7 @@ Jam 环节备选：
 
 ### 其它
 
-若有舞会组织疑问，欢迎你在 Issues 交流，或直接联系 [swingbeijing 的发起人](http://weixin.sogou.com/weixin?type=1&s_from=input&query=Swingbeijing&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=3871&sst0=1510555649682&lkt=8%2C1510555647719%2C1510555649567)~
+若有舞会组织疑问，欢迎你在 Issues 交流，或直接联系[你附近的 swing 活动发起人](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)~
 
 
 
