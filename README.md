@@ -27,7 +27,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 如果你还不熟悉 swing ，可以先看[这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
-如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份[舞会锦囊](HbParty.md)（TBD）令你欢乐摇摆。
+如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份[舞会指南](HbParty.md) 令你欢乐摇摆。
 
 如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) (TBD) ，你有心得也欢迎增补在此与其他舞者分享~
 
@@ -68,7 +68,7 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订对应文档，或讨论交流。你可以直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流，一起让更多人体验 swing 的欢乐 😋
 
-又如，你擅长图像表达，欢迎把其中内容呈现更直观。或者你外文写作不错，欢迎把这里的内容译成其它语言。又或你在张罗社区活动，欢迎引入舞会环节，给你的社区伙伴和这个多彩的生活方式牵个线 😝
+又如，你擅长图像表达，欢迎把其中内容呈现更直观。或者你外文写作不错，欢迎把这里的内容译成其它语言。又或你在张罗社区活动，欢迎[引入舞会环节](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbParty.md#%E7%BB%84%E7%BB%87%E8%88%9E%E4%BC%9A)，给你的社区伙伴和这个多彩的生活方式牵个线 😝
 
 即使你现在还想不到能做啥，也可以马上表达心意 —— 如果你喜欢我写的内容，欢迎点击右上角星星 `star` 一下告诉我，我会很开心~ 这个仓库会持续更新，如果你想及时了解，可以点击右上角眼睛 `watching` 。
 
