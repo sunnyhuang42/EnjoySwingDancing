@@ -29,9 +29,9 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份[舞会指南](HbParty.md) 令你欢乐摇摆。
 
-如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) (TBD) ，你有心得也欢迎增补在此与其他舞者分享~
+如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
 
-如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 What does swing mean to you? (活动 Issue TBD) 
+如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
 
 [GitHub Issues](https://github.com/ishanshan//issues) 可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
