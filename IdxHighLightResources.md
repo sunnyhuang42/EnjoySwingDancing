@@ -31,6 +31,13 @@
 - [The Dance Blog - Interesting & Inspiring things in Swing & Blues dance – Jered Morin](http://www.swinginblues.com/dance-blog/)
 - [Swing girl - Facebook](https://www.facebook.com/Swing-girl-1196144777099434/)：一位姑娘用漫画记录 swing 日常
 
+## 欢迎共建
+
+你想和大伙儿分享什么 swing 资源？
+
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
+
+
 ## CHANGELOG 
 
 - 180115 闪闪创建

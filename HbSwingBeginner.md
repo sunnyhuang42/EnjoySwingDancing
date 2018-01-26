@@ -195,7 +195,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 常用 swing 音乐见 [猫角工作室 - 网易云音乐](https://music.163.com/#/user/home?id=135431100) 分享的歌单。 Blues 推荐 [Rachel-Lau 的歌单《Blues Dance》](http://music.163.com/playlist/615809263/114409566?userid=253155664)。
 
 <details>
-<summary> 如何找 swing DJ 音乐？Dancer @孙思朴 分享了一些心得，供你参考：  </summary>
+<summary> BTW, 好音乐能让舞蹈愉悦不少，如何找到自己中意的？你可以参看 dancer @孙思朴 寻找 Blues DJ 音乐的心得：  </summary>
 
 0. 从喜欢的经典的音乐开始找 
 1. 浏览这首音乐的音乐家其他的音乐 
@@ -312,6 +312,12 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 - [Lindy hop today - Wikipedia](https://en.wikipedia.org/wiki/Lindy_hop_today)
 - [Lead and follow - Wikipedia](https://en.wikipedia.org/wiki/Lead_and_follow)
 - [SwingBeijing北京摇闻 ](http://weixin.sogou.com/weixin?type=1&query=SwingBeijing&ie=utf8&s_from=input&_sug_=n&_sug_type_=) 内容
+
+# 欢迎共建
+
+对于 swing 新人，你有什么建议？
+
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
 
 # CHANGELOG 
 

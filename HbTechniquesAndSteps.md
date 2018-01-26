@@ -65,6 +65,13 @@
 * [List of lindy hop moves - Wikipedia](https://en.wikipedia.org/wiki/List_of_lindy_hop_moves)
 * [Lindy exchange - Wikipedia](https://en.wikipedia.org/wiki/Lindy_exchange)
 * [Balboa (dance) - Wikipedia](https://en.wikipedia.org/wiki/Balboa_(dance))
+* [Blues dance - Wikipedia](https://en.wikipedia.org/wiki/Blues_dance)
+
+## 欢迎共建
+
+关于各动作，你想和大伙儿分享什么心得？
+
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
 
 ## CHANGELOG 
 

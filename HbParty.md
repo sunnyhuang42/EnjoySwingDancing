@@ -49,7 +49,10 @@
 
 > 只打算参加舞会，还没打算组织就不必往下看啦：P
 
-我还没组织过舞会，不过没吃过猪肉但见过猪跑，也能叨叨几句，欢迎你来补充~
+
+国内主要城市基本已有 swing 爱好者社区（信息见 [亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) ），如果你想在把 swing 引入自己的圈子，建议先自行到当地 swing 社区感受几回，如果能掌握一些 swing 的基本舞步那是再好不过。
+
+我还没组织过舞会，这些是观察到的舞会要素，欢迎你一起来修订~
 
 
 
@@ -105,7 +108,11 @@ Jam 环节备选：
 
 若有舞会组织疑问，欢迎你在 Issues 交流，或直接联系[你附近的 swing 活动发起人](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)~
 
+## 欢迎共建
 
+对于要参与舞会或组织舞会的 dancer ，你有什么建议？
+
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
 
 ## CHANGELOG 
 
