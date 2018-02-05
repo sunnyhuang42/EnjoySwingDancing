@@ -87,7 +87,7 @@
 
 舞种建议：
 
-- 如果只是偶然的一次新人舞会，个人建议教 **Ballroom Blues 的 basic pulse（double & single）**, apple jack, grinds and mess around etc. 因为这对参与者和组织者来说都有更高的性价比：
+- 如果只是偶然的一次新人舞会，个人建议教 **Juke joint blues 的 basic pulse（double & single）**, apple jack, grinds and mess around etc. 因为这对参与者和组织者来说都有更高的性价比：
 	- 一旦掌握基本步，容易跳出美感；加上变奏、变向、位移、旋转还能生出很多变化，以后去酒吧什么的就不担心尬舞啦。
 	- 单人能跳，双人也能跳。
 	- follower leader 舞步差别不大，即使现场男女不平衡也无妨。
