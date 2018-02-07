@@ -133,7 +133,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 	![swingvediosample.jpeg](http://ishanshan.qiniudn.com/share/swingvediosample.jpeg?imageView2/2/w/300)
 	
-	打死我也不会告诉你们这是小意 ︿(￣︶￣)︿
+	打死我也不会告诉你这是小意 ︿(￣︶￣)︿
 
 </details>
 

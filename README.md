@@ -1,31 +1,19 @@
 # May You Enjoy Swing Dancing
 
-> A guide to a fascinating world: don't mumble, don't murmur, let the dancing do the talking 💃🏻🕺🏻
-
-## Motivation
-
-2017 年夏天，我遭遇了工作以来最深的低谷，幸遇 [swing](https://en.wikipedia.org/wiki/Swing_(dance))，黯黑世界燃起星光。在 swing 的陪伴下，我最终平稳走出职业倦怠，也扛过了公司最动荡的时期。而 swing ，也自此融入日常。
-
-Swing 是什么？为什么要 Swing ？千位舞者有千种答案，或欢乐，或习惯，或心动，或心安，或文化，或生活，或消遣，或寄托。但那是他们，不是你：看再多资源也只能窥豹一斑，她对你来说究竟意味着什么，你得亲自体验 —— 
-
-**去附近最大的 swing 舞会吧！张开双臂，迈开双腿，和着 Jazz ，舞上一晚。**
-
-愿知识工作者如你，欣闻归属。
-
-![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750)
-
-> Google Doodle celebrates swing dancer [Frankie Manning](http://www.frankiemanning.com/) on what would have been his 102nd birthday on [May 26, 2016](https://www.google.com/doodles/frankie-mannings-102nd-birthday?hl=en).
-
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
-这半年拾级而上，有许多发现许多思考，真希望半年前自己就知晓。但时光难逆，唯有结合个人长处，把这些一得之见在此同你分享，助探索这片神奇丛林的你，摇摆更畅 （￣︶￣）↗
+为什么 swing 让人快乐？为什么 swing 点亮了我的生活？为什么我强烈建议你开始 swing ？ [Swing 吧！你的苦乐，swing 知道]() 给你答案 ;-)
 
+一路拾级而上，有许多发现许多思考，真希望半年前自己就知晓。便把这些一得之见汇成教程，给六个月前的自己，教她如何欢乐摇摆，进阶更畅。
 
+独乐不如众乐，也把她同你分享，助要探索 swing 丛林的你，摇摆更畅；也期待能抛砖引玉 —— 如果你有思考发现，欢迎与我分享，互塑共建 （￣︶￣）↗
 
 ## Usage
 
-这份指南内容很多、链接很多，逐一查看容易迷失。建议你按下述指引对号入座，不必全局浏览：
+**这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至组织舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。**
+
+其中内容很多、链接很多，逐一查看容易迷失。建议你按下述指引对号入座，不必全局浏览：
 
 - 如果你还不熟悉 swing ，可以速览 [《一张图解说 Swing 是什么》](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=202195199&idx=1&sn=6b68caf9d6038cd4067e6c17d4c9bed6&mpshare=1&scene=1&srcid=0113K49dXcqaWaqx8aFvelbq#rd)，然后查看 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
@@ -33,7 +21,7 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 - 如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
 
-- 你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
+- 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
 
 附带的主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) 可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
@@ -80,6 +68,7 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 ## CHANGELOG 
 
+- 180207 闪闪更新 readme 结构
 - 180124 闪闪把 license 改为 CC-BY-SA 4.0 license
 - 180119 闪闪更新共建建议、增补一些链接
 - 180118 闪闪增加 FAQ & CC BY-NC-SA 4.0 license
