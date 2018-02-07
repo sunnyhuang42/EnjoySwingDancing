@@ -236,7 +236,7 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 	<details>
 	<summary>学习效率高😎</summary>
 	
-	1. 在课室、家、办公区等多个地点练习，切换空间情景增加了大脑提取信息的**必要难度（desirable difficulty）**，练习相同时间，比单在一个地方练习记得更牢。
+	1. 在课室、家、办公区等多个地点练习，切换空间情景增加了大脑提取信息的**必要难度（[desirable difficulty](https://teaching.yale-nus.edu.sg/wp-content/uploads/sites/25/2016/02/Making-Things-Hard-on-Yourself-but-in-a-Good-Way-2011.pdf)）**，练习相同时间，比单在一个地方练习记得更牢。
 	2. 一天蹦跶两三次，每次十来分钟，这样既保证了有效学习时间，效果也更好：「**间隔学习**」比连续学习相同总时间的「集中学习」，记忆效果更好。
 	3. 十来分钟可以切换三四首曲子，如果你学了好几种舞蹈（比如 Lindy Hop / Charleston / Balboa ），正好可以轮着跳。这样**交错式学习（interleaved practice）** 比每个十来分钟只跳一种（abcbcacab VS aaabbbccc），效果更好；还免去重复跳一种的乏味。
 		
