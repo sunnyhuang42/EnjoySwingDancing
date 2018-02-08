@@ -30,6 +30,7 @@
     - [Dance movement, moves and patterns](#dance-movement-moves-and-patterns)
     - [Partnering technique](#partnering-technique)
 - [参考资料](#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99)
+- [欢迎共建](#%E6%AC%A2%E8%BF%8E%E5%85%B1%E5%BB%BA)
 - [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -56,7 +57,9 @@
 
 如果你有舞蹈基础，可以跟着视频学，并多去舞会找人练。
 
-如果没有舞蹈基础，建议直接报课，有搭档有氛围。北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都是从基本步生发出来的，不会占用你太多认知资源，降低同时输入的信息的复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
+如果没有舞蹈基础，建议直接报课，有搭档有氛围。Swing 课程多由 swing 爱好者业余教授，一般每次课不超过 150 元，一期课程（6-8 次课）700 元左右，有些课搭档报名还有优惠。这价格实在动人，个人感觉就是 cover 场地成本，再象征性地收点。
+
+北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都从基本步生发出来的动作，不会占用你太多认知资源，降低同时输入的信息复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
 
 如果从动作多变的 blues 开始，嗯……我敬你是条好汉，good luck 😙
 
@@ -70,7 +73,7 @@ swing 多是双人舞，一人领舞，称为 leader ， 一人跟舞，唤作 f
 
 当 leader 最大的好处，是报名课程不受限制，基本想报都能上 —— 谁叫国内喜欢跳舞的男生少，总有一群 follower 在 waiting list 里等着单独的 leader 报名。但也有劣势：水平不高时易没自信，不敢邀请 follower 跳舞，担心给对方添堵，导致难以充分利用舞会多多练习。
 
-follower 正好相反：多要找到舞伴才能顺利报名课程，否则就排队吧。但参加舞会就没那么大压力，只要跟着 leader 的信号跳就好啦。
+Follower 正好相反：多要找到舞伴才能顺利报名课程，否则就排队吧。但参加舞会就没那么大压力，只要跟着 leader 的信号跳就好啦。
 
 
 
@@ -190,7 +193,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 日常建议你多听音乐，培养对 melody & rhythm 的感觉。各舞蹈对音乐的响应相通，如果你身体能情不自禁跟着音乐自如摇摆，之后学啥舞蹈在 Musicality 上问题都不大。
 
-一开始找不到节奏也不急焦虑，慢慢来，多听多练。我乐感很差一开始也难找节奏，得知教我的老师也是跳了很久后的某个时候忽然才通，我便安心练习。果然跳了三四个月后便有了感觉。
+一开始找不到节奏也不必焦虑，慢慢来，多听多练。我乐感很差一开始也难找节奏，得知教我的老师也是跳了很久后的某个时候忽然才通，我便安心练习。果然跳了三四个月后便有了感觉，开始踩对八拍。
 
 常用 swing 音乐见 [猫角工作室 - 网易云音乐](https://music.163.com/#/user/home?id=135431100) 分享的歌单。 Blues 推荐 [Rachel-Lau 的歌单《Blues Dance》](http://music.163.com/playlist/615809263/114409566?userid=253155664)。
 
@@ -321,6 +324,7 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 
 # CHANGELOG 
 
+- 180208 闪闪增补细节、修订目录
 - 180125 闪闪增加孙思朴找 swing DJ 音乐的建议
 - 180120 闪闪增加案例、调整格式
 - 180118 闪闪调整组块

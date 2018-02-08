@@ -11,15 +11,17 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-  - [参与舞会](#%E5%8F%82%E4%B8%8E%E8%88%9E%E4%BC%9A)
-  - [组织舞会](#%E7%BB%84%E7%BB%87%E8%88%9E%E4%BC%9A)
-    - [舞会场地](#%E8%88%9E%E4%BC%9A%E5%9C%BA%E5%9C%B0)
-    - [舞会所需角色](#%E8%88%9E%E4%BC%9A%E6%89%80%E9%9C%80%E8%A7%92%E8%89%B2)
-    - [舞会环节](#%E8%88%9E%E4%BC%9A%E7%8E%AF%E8%8A%82)
-      - [新人舞会](#%E6%96%B0%E4%BA%BA%E8%88%9E%E4%BC%9A)
-      - [非新人舞会](#%E9%9D%9E%E6%96%B0%E4%BA%BA%E8%88%9E%E4%BC%9A)
-    - [其它](#%E5%85%B6%E5%AE%83)
-  - [CHANGELOG](#changelog)
+
+- [参与舞会](#%E5%8F%82%E4%B8%8E%E8%88%9E%E4%BC%9A)
+- [组织舞会](#%E7%BB%84%E7%BB%87%E8%88%9E%E4%BC%9A)
+  - [舞会场地](#%E8%88%9E%E4%BC%9A%E5%9C%BA%E5%9C%B0)
+  - [舞会所需角色](#%E8%88%9E%E4%BC%9A%E6%89%80%E9%9C%80%E8%A7%92%E8%89%B2)
+  - [舞会环节](#%E8%88%9E%E4%BC%9A%E7%8E%AF%E8%8A%82)
+    - [新人舞会](#%E6%96%B0%E4%BA%BA%E8%88%9E%E4%BC%9A)
+    - [非新人舞会](#%E9%9D%9E%E6%96%B0%E4%BA%BA%E8%88%9E%E4%BC%9A)
+  - [其它](#%E5%85%B6%E5%AE%83)
+- [欢迎共建](#%E6%AC%A2%E8%BF%8E%E5%85%B1%E5%BB%BA)
+- [CHANGELOG](#changelog)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
