@@ -28,6 +28,7 @@
 	- [Swing Beijing – Ah one, ah two, and you know what to do](https://swingbeijing.com/)
 	- [Social Dance in China 摇摆中国通](https://swingbeijing.com/socialdanceinchina/)
 	- [Swing events in Asia 亚洲摇摆舞活动](https://swingbeijing.com/asianevents/)
+- swing 自学资源：[More Dances-heaven for swing dancers](http://lindyhopmoves.com/more-lindy-hop/) 
 - [The Dance Blog - Interesting & Inspiring things in Swing & Blues dance – Jered Morin](http://www.swinginblues.com/dance-blog/)
 - [Swing girl - Facebook](https://www.facebook.com/Swing-girl-1196144777099434/)：一位姑娘用漫画记录 swing 日常
 
@@ -40,5 +41,6 @@
 
 ## CHANGELOG 
 
+- 180209 闪闪增补 swing 自学资源
 - 180115 闪闪创建
 
