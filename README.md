@@ -16,10 +16,10 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 目前主要有以下板块：
 
 1. **本 Swing 教程概览**：为什么会有这样一份教程？这份教程怎么使用，如何共建？且看 [README.md](README.md)（其实就是你现在看到的页面啦）。
-	2. **Swing 新人指南**：如何开始 swing ？如何学得更快？如何跳得更开心？且看 [HbSwingBeginner.md](HbSwingBeginner.md) 。
-	3. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](HbParty.md) 。
-	4. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) 。
-	5. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [IdxHighLightResources.md](IdxHighLightResources.md) 。
+	1. **Swing 新人指南**：如何开始 swing ？如何学得更快？如何跳得更开心？且看 [HbSwingBeginner.md](HbSwingBeginner.md) 。
+	2. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](HbParty.md) 。
+	3. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) 。
+	4. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [IdxHighLightResources.md](IdxHighLightResources.md) 。
 6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
 但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
