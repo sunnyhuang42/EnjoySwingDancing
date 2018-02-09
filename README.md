@@ -13,17 +13,26 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 
 **这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至筹办舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。**
 
-其中内容多多链接错综，逐一查看容易迷失。建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅：
+目前主要有以下板块：
+
+1. **本 Swing 教程概览**：为什么会有这样一份教程？这份教程怎么使用，如何共建？且看 [README.md](README.md)（其实就是你现在看到的页面啦）。
+	2. **Swing 新人指南**：如何开始 swing ？如何学得更快？如何跳得更开心？且看 [HbSwingBeginner.md](HbSwingBeginner.md) 。
+	3. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](HbParty.md) 。
+	4. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) 。
+	5. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [IdxHighLightResources.md](IdxHighLightResources.md) 。
+6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
+
+但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
 
 - 如果你还不熟悉 swing ，可以速览 [《一张图解说 Swing 是什么》](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=202195199&idx=1&sn=6b68caf9d6038cd4067e6c17d4c9bed6&mpshare=1&scene=1&srcid=0113K49dXcqaWaqx8aFvelbq#rd)，然后查看 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
 - 如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份 [舞会指南](HbParty.md) 令你欢乐摇摆。
 
-- 如果你决定入坑学习 swing ，这份[新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
+- 如果你决定入坑学习 swing ，[Swing 新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
 
 - 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
 
-附带的主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) 可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
+以上。祝玩耍愉快 XD
 
 ## FAQ
 
@@ -68,6 +77,7 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 ## CHANGELOG 
 
+- 180209 闪闪增加所含板块介绍
 - 180207 闪闪更新 readme 结构
 - 180124 闪闪把 license 改为 CC-BY-SA 4.0 license
 - 180119 闪闪更新共建建议、增补一些链接
