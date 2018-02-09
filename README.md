@@ -24,11 +24,11 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 
 但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
 
-- 如果你还不熟悉 swing ，可以速览 [《一张图解说 Swing 是什么》](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=202195199&idx=1&sn=6b68caf9d6038cd4067e6c17d4c9bed6&mpshare=1&scene=1&srcid=0113K49dXcqaWaqx8aFvelbq#rd)，然后查看 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
+- 如果你还不熟悉 swing ，可以速览 [《一张图解说 Swing 是什么》](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=202195199&idx=1&sn=6b68caf9d6038cd4067e6c17d4c9bed6&mpshare=1&scene=1&srcid=0113K49dXcqaWaqx8aFvelbq#rd)，然后查看 Swing 星标资源中推荐的[视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90)，一窥 Swing 风采。
 
-- 如果你想亲身体验 Swing ，可以在这份[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)找到各地 swing 活动信息。希望这份 [舞会指南](HbParty.md) 令你欢乐摇摆。
+- 如果你想亲身体验 Swing ，可以看 Swing 星标资源中列出的[亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9)，找到各地 swing 活动信息。希望 [Swing 舞会指南](HbParty.md) 令你欢乐摇摆。
 
-- 如果你决定入坑学习 swing ，[Swing 新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [HbTechniquesAndSteps.md](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
+- 如果你决定入坑学习 swing ，[Swing 新人指南](HbSwingBeginner.md)可以助你探索更畅。各风格舞种动作技巧见 [Swing 动作心得](HbTechniquesAndSteps.md) ，你有心得也欢迎增补在此与其他舞者分享~
 
 - 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
 
