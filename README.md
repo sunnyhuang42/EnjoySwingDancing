@@ -65,7 +65,7 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 欢迎发挥你的长处，让更多人感受 swing 魅力 ;-)
 
-比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流，一起让更多人体验 swing 的欢乐 😋
+比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) 交流，一起让更多人体验 swing 的欢乐 😋
 
 又如，你擅长图像表达，欢迎把其中内容呈现更直观。或者你外文写作不错，欢迎把这里的内容译成其它语言。又或你在张罗社区活动，欢迎[引入舞会环节](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbParty.md#%E7%BB%84%E7%BB%87%E8%88%9E%E4%BC%9A)，给你的社区伙伴和这个多彩的生活方式牵个线 😝
 
