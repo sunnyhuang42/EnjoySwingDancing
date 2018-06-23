@@ -29,7 +29,7 @@
 	- [Social Dance in China 摇摆中国通](https://swingbeijing.com/socialdanceinchina/)
 	- [Swing events in Asia 亚洲摇摆舞活动](https://swingbeijing.com/asianevents/)
 - swing 自学资源：
-	- blues 的话
+	- blues 
 		- 强烈推荐 [Adamo & Vicci ~ We teach people how to dance, create choreography & organise events](https://www.adamoandvicci.com/) 的课程。 一年一百多欧元，他们还提供了 75 折优惠码，要用的欢迎私下找我。
 		- Drag blues 可看 [Ruth and Mike 在 Udemy 上的三门课程](https://www.udemy.com/user/ruth-and-mike/)。费用较高，趁 Udemy 做大促时拿下更划算。
 	- [More Dances-heaven for swing dancers](http://lindyhopmoves.com/more-lindy-hop/) 
