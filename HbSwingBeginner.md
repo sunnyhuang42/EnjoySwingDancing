@@ -55,15 +55,17 @@
 
 **学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没舞蹈基础也没音乐基础，建议先可着 1-2 项练习，而非一下把三项都拿下。
 
-如果你有舞蹈基础，可以跟着线上资源（比如 [More Dances-heaven for swing dancers](http://lindyhopmoves.com/more-lindy-hop/)）学，并多去舞会找人练。
+如果你有舞蹈基础，可以跟着线上资源（比如 [Swing 星标资源](IdxHighLightResources.md) 列出的这些）学，并多去舞会找人练。
 
-如果没有舞蹈基础，建议直接报课，有搭档有氛围。Swing 课程多由 swing 爱好者业余教授，一般每次课不超过 150 元，一期课程（6-8 次课）700 元左右，有些课搭档报名还有优惠。这价格实在动人，个人感觉就是 cover 场地成本，再象征性地收点。
+如果没有舞蹈基础，建议直接报课，有搭档有氛围。Swing 课程多由 swing 爱好者业余教授，一般每次课不超过 150 元，一期课程（6-8 次课）700 元左右，有些课搭档报名还有优惠。这价格实在动人，个人推测就是 cover 场地成本，再象征性地收点。
 
-北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都从基本步生发出来的动作，不会占用你太多认知资源，降低同时输入的信息复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
+北京常开的 Swing 双人舞课程有 Lindy Hop / Charleston / Balboa / Blues ，我**建议你从 Lindy Hop 或 balboa 开始**。因为这两种舞蹈 level 1 每堂课学的动作不多，且都从基本步生发出来的动作，不会占用你太多认知资源，降低同时输入的信息复杂度。熟悉 Musicality & Partnering technique 后，再学 Dance movement, moves and patterns  复杂的舞蹈便轻松不少。而且会跳这个风格的舞者最多，舞会也最多，有很多练习机会。此外，从单人的 solo jazz 课程开始也不错，这样就只需关注前两个模块。
 
 如果从动作多变的 blues 开始，嗯……我敬你是条好汉，good luck 😙
 
-BTW，你可能会碰到有些舞者不希望别人称他为 swing dancer ，嗯这很正常，因为目前 blues 和 swing 是从属还是并列关系还无统一意见。不过这对我来说无妨啦，对方喜欢用什么定位来形容自己，我都能接受且尊重，他觉得开心且没伤害别人就好。建议你了解更多信息后自行选择立场。
+当然，并非所有风格的 swing 舞种你都需要学习，也并非每种风格你都喜欢，找到适合自己的就好。比如我跳把上述尝试了一圈，发现最喜欢 blues —— blues 细分多种风格，各风格都风韵十足，且我核心稳定灵活跳这个很有优势；就基本只研究 blues ，很少深入练习其它风格了。
+
+BTW，你可能会碰到有些 blues 舞者不希望别人称他为 swing dancer ，嗯这很正常，因为目前 blues 和 swing 是从属还是并列关系还无统一意见。不过这对我来说无妨啦，对方喜欢用什么定位来形容自己，我都能接受且尊重，他觉得开心且没伤害别人就好。建议你了解更多信息后自行选择立场。
 
 ## 当 leader 还是 follower ？
 
@@ -324,6 +326,7 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 
 # CHANGELOG 
 
+- 180623 闪闪增补舞蹈风格选择建议
 - 180208 闪闪增补细节、修订目录
 - 180125 闪闪增加孙思朴找 swing DJ 音乐的建议
 - 180120 闪闪增加案例、调整格式
