@@ -44,8 +44,10 @@
 - [【新手必读！】交际舞舞会礼节 | Social Dance Etiquettes - Beginners Must Read](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=200271985&idx=1&sn=50e302d5738f9d30b2152b5029b9befc&mpshare=1&scene=1&srcid=01134ZhmFxGGemVWILsqrQ8K#rd)
 - [新踏入摇摆舞舞会，要注意的一些事情](https://mp.weixin.qq.com/s?__biz=MzUxNjA0MDkwMA==&mid=2247483747&idx=1&sn=f9039d18000fa3b577804e0035670590&chksm=f9ac30c8cedbb9de139811eab545221a2e24d82483ddd843d2f4484114bf8ec779bd9da21806&mpshare=1&scene=1&srcid=11018RfPIWXJgPGkQg90DQDA#rd)
 
+如果你想在舞会上让别人也更开心，建议注意以下细节：
 
-
+- 如果你因非针对某人的原因（比如希望休息、不喜欢这首曲子的风格）而拒绝了某位舞者的邀舞，等你状态 OK 了，最好再主动邀请回对方。
+- 最好备 1-2 套衣服，出汗湿了及时更换。要不湿乎乎的你自己不好受，你的共舞的舞者也很不舒服……
 
 ## 组织舞会
 
@@ -118,6 +120,7 @@ Jam 环节备选：
 
 ## CHANGELOG 
 
+- 180623 闪闪增补舞会细节建议
 - 180124 闪闪完善建议
 - 180118 闪闪创建
 
