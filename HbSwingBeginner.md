@@ -87,7 +87,7 @@ Follower 正好相反：多要找到舞伴才能顺利报名课程，否则就�
 
 ## Follower 如何找到 leader 一起报名？
 
-Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴搭档报名该怎么办？ ](http://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=2653448915&idx=1&sn=7b1dfbd8a73dae02a2fefd8ec1c215e4&mpshare=1&scene=1&srcid=0113RKPvbLG2ioywA4FEyTud#rd) ，没把所有方法用遍，请别放弃~
+Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭档报名该怎么办？ ](http://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=2653448915&idx=1&sn=7b1dfbd8a73dae02a2fefd8ec1c215e4&mpshare=1&scene=1&srcid=0113RKPvbLG2ioywA4FEyTud#rd) ，没把所有方法用遍，请别放弃~
 
 如果体验课后没逮到 leader ，还可以在 dancer 群里问问，比如当时我以为自己要报不上 balboa 了，抱着试试的心态在群里问了一下，一会儿就找到啦：
 
@@ -113,7 +113,7 @@ Swing Beijng 的伙伴已经给你准备了贴心的指南：[找不到男舞伴
 
 </details>
 
-
+需要注意的是，和你一起报名某次课程的舞伴和你并非长期绑定关系，如果他后来编舞或报名其他课程时没有找你，这都是正常的，请不要也没必要为此难过、生气。多和不同舞伴搭档，你更有机会找到适合自己风格的舞伴。
 
 
 # 跳舞啦
@@ -326,7 +326,7 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 
 # CHANGELOG 
 
-- 180623 闪闪增补舞蹈风格选择建议
+- 180623 闪闪增补舞蹈风格、舞伴选择建议
 - 180208 闪闪增补细节、修订目录
 - 180125 闪闪增加孙思朴找 swing DJ 音乐的建议
 - 180120 闪闪增加案例、调整格式
