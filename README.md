@@ -3,7 +3,7 @@
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
-Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的生活？为什么我强烈建议你开始 swing ？这篇短文会给你答案：[Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](http://ishanshan.top/selfedu/YouNeedSwing.html) ;-)
+Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的生活？为什么我强烈建议你开始 swing ？这篇短文会给你答案：[Swing 吧！你的苦乐，swing 知道 | ishanshan's blog](https://ishanshan.im/selfedu/YouNeedSwing.html) ;-)
 
 一路拾级而上，有许多发现许多思考，真希望半年前自己就知晓。教是更好的学，便把这些一得之见汇成教程，给六个月前的自己，教她如何少走弯路，进阶更畅。
 
