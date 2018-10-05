@@ -136,7 +136,7 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 3. 建议**竖持手机**而非横持来录，以便练习时手持手机跟学。
 4. 如果老师正好面对镜子就更好啦，正背面都录上了，比如这样：
 
-	![swingvediosample.jpeg](http://ishanshan.qiniudn.com/share/swingvediosample.jpeg?imageView2/2/w/300)
+	![swingvediosample.jpeg](http://ishanshan.zoomquiet.top/share/swingvediosample.jpeg?imageView2/2/w/300)
 	
 	打死我也不会告诉你这是小意 ︿(￣︶￣)︿
 
