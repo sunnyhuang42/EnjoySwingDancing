@@ -6,7 +6,7 @@
 
 ## 如何使用
 
-1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-dancing-%E6%98%9F%E6%A0%87%E8%B5%84%E6%BA%90) ；如果可以，最好到 [附近最大的 swing 舞会](https://github.com/ishanshan/EnjoySwingDancing/blob/master/IdxHighLightResources.md#swing-%E5%91%A8%E8%BE%B9) 亲身体验一下。此后再看这份指南，要不看了也没感觉哦。
+1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://ishanshan.im/#/swing/ResHighLight) ；如果可以，最好到 [附近最大的 swing 舞会](https://ishanshan.im/#/swing/ResHighLight) 亲身体验一下。此后再看这份指南，要不看了也没感觉哦。
 2. 这份指南就如产品帮助文档，没必要一次看完，也易认知过载。建议你先通览下述目录心中有数，即将用到再查阅。
 
 ## 目录
@@ -55,7 +55,7 @@
 
 **学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没舞蹈基础也没音乐基础，建议先可着 1-2 项练习，而非一下把三项都拿下。
 
-如果你有舞蹈基础，可以跟着线上资源（比如 [Swing 星标资源](IdxHighLightResources.md) 列出的这些）学，并多去舞会找人练。
+如果你有舞蹈基础，可以跟着线上资源（比如 [Swing 星标资源](https://ishanshan.im/#/swing/ResHighLight) 列出的这些）学，并多去舞会找人练。
 
 如果没有舞蹈基础，建议直接报课，有搭档有氛围。Swing 课程多由 swing 爱好者业余教授，一般每次课不超过 150 元，一期课程（6-8 次课）700 元左右，有些课搭档报名还有优惠。这价格实在动人，个人推测就是 cover 场地成本，再象征性地收点。
 
@@ -137,7 +137,7 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 4. 如果老师正好面对镜子就更好啦，正背面都录上了，比如这样：
 
 	![swingvediosample.jpeg](http://ishanshan.zoomquiet.top/share/swingvediosample.jpeg?imageView2/2/w/300)
-	
+
 	打死我也不会告诉你这是小意 ︿(￣︶￣)︿
 
 </details>
@@ -150,12 +150,12 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 
 很多舞者都说，Swing 使人开心。的确，运动叫人愉悦；和着音乐摇摆，更是快乐；学习新东西的过程也让人兴奋不已。总之，相信你无论跳 swing 还是学 swing ，都将开心无比。
 
-这里还有些小技巧，让你更开心哦 —— 
+这里还有些小技巧，让你更开心哦 ——
 
-整个 swing 生涯，你遇到的舞伴大致分四类： 
+整个 swing 生涯，你遇到的舞伴大致分四类：
 
 1. 跳得没你好的；
-2. 你们旗鼓相当的； 
+2. 你们旗鼓相当的；
 3. 比你跳得好或旗鼓相当，并能给你反馈哪个动作他不舒服的，但说不出原因的；
 4. 比你跳得好或旗鼓相当，还能给你反馈令他不舒服的原因，正确的动作/感觉应如何。
 
@@ -163,9 +163,9 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 
 对了，如果你的舞伴让你很开心，请一定毫不吝啬地告诉他，表达欣赏和谢意，比如：
 
-- 和你跳舞很舒服！ —— 「舒服」在我看来是对一个舞伴的最高评价，原因见 [Swing 舞会指南](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbParty.md#%E5%8F%82%E4%B8%8E%E8%88%9E%E4%BC%9A)。
+- 和你跳舞很舒服！ —— 「舒服」在我看来是对一个舞伴的最高评价，原因见 [Swing 舞会指南](https://ishanshan.im/#/swing/HbParty)。
 - 你的信号好明确~ —— 舞蹈是两人交流，信号是关键。
-- 你动作好流畅~！ 
+- 你动作好流畅~！
 - ……
 
 这样他也会很开心，也会更乐意和你跳，你就有更多开心时间无限正循环了呐。
@@ -189,7 +189,7 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 
 那课后练什么？开头说的三大模块：
 
-### Musicality 
+### Musicality
 
 > Musicality is the skill allowing the dancer to create and execute choreography (either prepared in advance or improvised on the spot on the dance floor) to match - and, more significantly, represent the music - including the melody and the rhythm.
 
@@ -202,20 +202,20 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 <details>
 <summary> BTW, 好音乐能让舞蹈愉悦不少，如何找到自己中意的？你可以参看 dancer @孙思朴 寻找 Blues DJ 音乐的心得：  </summary>
 
-0. 从喜欢的经典的音乐开始找 
-1. 浏览这首音乐的音乐家其他的音乐 
-2. 音乐 App 上类似歌曲推荐 
-3. 类似音乐家推荐 
-4. 浏览这首音乐所属曲风分类下的音乐 
-5. 同一首作品的不同音乐家版本 
-6. 收藏这首歌曲的歌单（注意从收藏次数较少的冷门歌曲寻找，否则歌单风格差异太大） 
-7. 关注建立该歌单的用户，浏览其建立的其他类似歌单 
-8. 其他 DJ 或 Dancer 建立的歌单 
-9. 经典赛事中比赛所用曲目 
-10. 这首音乐常用的乐器及使用类似乐器的音乐 
+0. 从喜欢的经典的音乐开始找
+1. 浏览这首音乐的音乐家其他的音乐
+2. 音乐 App 上类似歌曲推荐
+3. 类似音乐家推荐
+4. 浏览这首音乐所属曲风分类下的音乐
+5. 同一首作品的不同音乐家版本
+6. 收藏这首歌曲的歌单（注意从收藏次数较少的冷门歌曲寻找，否则歌单风格差异太大）
+7. 关注建立该歌单的用户，浏览其建立的其他类似歌单
+8. 其他 DJ 或 Dancer 建立的歌单
+9. 经典赛事中比赛所用曲目
+10. 这首音乐常用的乐器及使用类似乐器的音乐
 11. 曲风差别较大但适合跳的音乐保留，精选后穿插全场或深夜场播放
 
-</details> 
+</details>
 
 
 
@@ -240,59 +240,59 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 
 	<details>
 	<summary>学习效率高😎</summary>
-	
+
 	1. 在课室、家、办公区等多个地点练习，切换空间情景增加了大脑提取信息的**必要难度（[desirable difficulty](https://teaching.yale-nus.edu.sg/wp-content/uploads/sites/25/2016/02/Making-Things-Hard-on-Yourself-but-in-a-Good-Way-2011.pdf)）**，练习相同时间，比单在一个地方练习记得更牢。
 	2. 一天蹦跶两三次，每次十来分钟，这样既保证了有效学习时间，效果也更好：「**间隔学习（[spacing effect](https://www.psychologytoday.com/us/blog/everybody-is-stupid-except-you/201411/four-things-scientists-get-wrong-about-spacing-effects)）**」比连续学习相同总时间的「集中学习」，记忆效果更好。
 	3. 十来分钟可以切换三四首曲子，如果你学了好几种舞蹈（比如 Lindy Hop / Charleston / Balboa ），正好可以轮着跳。这样**交错式学习（interleaved practice）** 比每个十来分钟只跳一种（abcbcacab VS aaabbbccc），效果更好；还免去重复跳一种的乏味。
-		
+
 	</details>
 
-	
+
 	<details>
 	<summary>附带好处多😌</summary>
-	
-	
+
+
 	这么练习不但促进舞蹈学习，还能助益你的工作、健康 ——
-	
+
 	血清素可抵抗抑郁和焦虑，运动能提升人体血清素含量。**适量运动使人轻松**，**韵律运动更甚**，**舞蹈功效加倍**。专注 1-1.5h ，起来动动再继续工作，脑子便好使不少。且[舞蹈相较其它锻炼，更利于延缓大脑衰老](https://www.frontiersin.org/articles/10.3389/fnhum.2017.00566/full)哦。
-	
+
 	下肢运动还是久坐人士特别好的选择，乃我等知识工作者绝配。
-	
+
 	另外，相较其它小憩选择，舞蹈能令你迅速切换状态 —— 音乐一响，便浸入另一世界。而且更易把控时间 —— 跳 3-4 首就撤，不至于迷得忘了时间。
-		
+
 	</details>
 
 
 
-	
-
-	
-	
-
-4. 学到一定阶段，你会接触编舞。不同于舞会随心所欲地跳，跳编舞要记住固定的动作顺序。如何记更轻松？试着把动作编成故事，给那些动作赋予意义，并分成 4-5 个组块 —— 信息组块数量在人类工作记忆（working memory）上限之内，记住就没那么难啦。更何况，**优秀的舞者，起舞不只跳舞，更在讲故事**。而观众看你们有情节而非背动作，也会更带感。 
 
 
-	
+
+
+
+4. 学到一定阶段，你会接触编舞。不同于舞会随心所欲地跳，跳编舞要记住固定的动作顺序。如何记更轻松？试着把动作编成故事，给那些动作赋予意义，并分成 4-5 个组块 —— 信息组块数量在人类工作记忆（working memory）上限之内，记住就没那么难啦。更何况，**优秀的舞者，起舞不只跳舞，更在讲故事**。而观众看你们有情节而非背动作，也会更带感。
+
+
+
 	<details>
 	<summary>	献丑抛个砖 🙈</summary>
-	
-	
+
+
 	这是我在 lindy hop level 1 结业编舞里一个小节的动作：
-	
+
 		basic 6，send out，change places，circle6，8basic
 		tuck turn，teaport(6)，teaport(10)，teaport(10)
 		8circle，stop pro，pro，8step
 		hange places*3，8step 抢人
-	
+
 	这么多，好难记啊……然后我就串了个故事：
-	
+
 	1. 俩人初识，前后转圈打招呼 `（basic 6，send out，change places，circle6，8basic）`
 	2. 唔，有好感，手牵手来回散步增进了解 `（tuck turn，teaport(6)，teaport(10)，teaport(10)）`
 	3. 转了一圈尬聊了， follow 想撤，被 lead 拦住两回 `（8circle，stop pro，pro，8step）`
 	4. 好吧那再彼此前后瞧瞧，看有什么好聊的。这时候正好 LH2 follow 出来抢 lead ，LH1 follow 欣然退场 `（change places*3，8step 抢人） `# 当然 LH1 follow 想悻然退场也行，哈哈
-		
+
 	</details>
-	
+
 
 
 5. 如果你想记得更牢，那在想不起动作时，先别马上看动作说明，而是先尝试自己回忆一下 —— 继续增加必要难度（Desirable Difficulty），让大脑更牢靠地存储该信息。
@@ -301,9 +301,9 @@ Swing 舞步看似繁多，但各风格舞蹈都有各自基本步，很多动�
 
 
 
-### Partnering technique 
+### Partnering technique
 
-> Partnering technique is the element which controls the communication of the dancers engaged in the dance - the dance partners. 
+> Partnering technique is the element which controls the communication of the dancers engaged in the dance - the dance partners.
 
 双人舞是两人交互，和所有交流一样，信息传递和响应到位才畅快。
 
@@ -324,7 +324,7 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 
 欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
 
-# CHANGELOG 
+# CHANGELOG
 
 - 180623 闪闪增补舞蹈风格、舞伴选择建议
 - 180208 闪闪增补细节、修订目录
@@ -333,4 +333,3 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 - 180118 闪闪调整组块
 - 180113 闪闪增补各类细节，优化表达
 - 180106 闪闪创建
-

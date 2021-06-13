@@ -13,15 +13,30 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 
 这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至筹办舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。
 
-要点导览可见下述博客，祝玩耍愉快 XD
+目前主要有以下板块：
 
-https://ishanshan.im/#/swing/
+1. **本 Swing 教程概览**：为什么会有这样一份教程？这份教程怎么使用，如何共建？且看 [README.md](https://ishanshan.im/#/swing/README)（其实就是你现在看到的页面啦）。
+	1. **Swing 新人指南**：如何开始 swing ？如何学得更快？如何跳得更开心？且看 [HbBeginner.md](https://ishanshan.im/#/swing/HbBeginner) 。
+	2. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](https://ishanshan.im/#/swing/HbParty) 。
+	3. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [TipsMovement.md](https://ishanshan.im/#/swing/TipsMovement) 。
+	4. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [ResHighLight.md](https://ishanshan.im/#/swing/ResHighLight) 。
+6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
+但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
 
+- 如果你还不熟悉 swing ，可以速览 [《一张图解说 Swing 是什么》](https://mp.weixin.qq.com/s?__biz=MjM5NTc0MzQ2Mw==&mid=202195199&idx=1&sn=6b68caf9d6038cd4067e6c17d4c9bed6&mpshare=1&scene=1&srcid=0113K49dXcqaWaqx8aFvelbq#rd)，然后查看 Swing 星标资源中推荐的[视频](https://ishanshan.im/#/swing/ResHighLight)，一窥 Swing 风采。
+
+- 如果你想亲身体验 Swing ，可以看 Swing 星标资源中列出的[亚洲 swing 活动清单](https://ishanshan.im/#/swing/)，找到各地 swing 活动信息。希望 [Swing 舞会指南](https://ishanshan.im/#/swing/HbParty) 令你欢乐摇摆。
+
+- 如果你决定入坑学习 swing ，[Swing 新人指南](https://ishanshan.im/#/swing/HbBeginner)可以助你探索更畅。各风格舞种动作技巧见 [Swing 动作心得](https://ishanshan.im/#/swing/TipsMovement) ，你有心得也欢迎增补在此与其他舞者分享~
+
+- 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
+
+以上。祝玩耍愉快 XD
 
 ## FAQ
 
-### 为什么在 GitHub 这个如此 geek 的平台上分享？
+### 为什么在 [GitHub](https://github.com/ishanshan/EnjoySwingDancing) 这个如此 geek 的平台上分享？
 
 啊哈，好问题。
 
@@ -60,9 +75,8 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-## CHANGELOG 
+## CHANGELOG
 
-- 210613 闪闪更新导览链接
 - 180209 闪闪增加所含板块介绍
 - 180207 闪闪更新 readme 结构
 - 180124 闪闪把 license 改为 CC-BY-SA 4.0 license
@@ -70,5 +84,3 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 - 180118 闪闪增加 FAQ & CC BY-NC-SA 4.0 license
 - 180115 闪闪更新使用建议
 - 180114 闪闪创建
-
-
